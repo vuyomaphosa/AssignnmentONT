@@ -1,0 +1,11 @@
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\bin\Debug\ONT-Assingment.exe.config
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\bin\Debug\ONT-Assingment.exe
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\bin\Debug\ONT-Assingment.pdb
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.AssemblyReference.cache
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT_Assingment.Form1.resources
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT_Assingment.Properties.Resources.resources
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.GenerateResource.cache
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.CoreCompileInputs.cache
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT-Assingment.exe
+C:\Users\PC 2021\Documents\Adv Diploma\ONT4101\ONT-Assingment\obj\Debug\ONT-Assingment.pdb
