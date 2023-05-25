@@ -20,3 +20,11 @@ C:\Users\PC 2021\Source\Repos\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assing
 C:\Users\PC 2021\Source\Repos\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.CoreCompileInputs.cache
 C:\Users\PC 2021\Source\Repos\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.exe
 C:\Users\PC 2021\Source\Repos\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.pdb
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.AssemblyReference.cache
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.SuggestedBindingRedirects.cache
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT_Assingment.Form1.resources
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT_Assingment.Properties.Resources.resources
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.GenerateResource.cache
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.csproj.CoreCompileInputs.cache
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.exe
+C:\Users\roxyr\Source\Repos\vuyomaphosa\AssignnmentONT\ONT-Assingment\obj\Debug\ONT-Assingment.pdb

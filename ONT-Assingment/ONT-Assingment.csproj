@@ -46,6 +46,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Minibus.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="CarWheel.cs" />
+    <Compile Include="CarChassis.cs" />
+    <Compile Include="CarFactory.cs" />
+    <Compile Include="CarInteriorTrim.cs" />
+    <Compile Include="CarShell.cs" />
+    <Compile Include="CoporateHQ.cs" />
+    <Compile Include="VehicleClient.cs" />
+    <Compile Include="VehicleAbstractFactory.cs" />
+    <Compile Include="MinibusWheel.cs" />
+    <Compile Include="MinibusShell.cs" />
+    <Compile Include="MinibusInteriorTrim.cs" />
+    <Compile Include="MinibusFactory.cs" />
+    <Compile Include="MinibusChassis.cs" />
+    <Compile Include="IWheel.cs" />
+    <Compile Include="ITrim.cs" />
+    <Compile Include="IShell.cs" />
+    <Compile Include="IChassis.cs" />
+    <Compile Include="AbstractFactory.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
